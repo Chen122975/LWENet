@@ -2,7 +2,7 @@
 LWENet Pytorch
 Here is the code for LWENet.
 This work has been accepted by IEEE Signal Processing Letters
-#cite
+# cite
 If you have used this code in your research, please cite the paper :
 Weng, Shaowei and Chen, Mengfei and Yu, Lifang and Sun, Shiyao, "Lightweight and Effective Deep Image Steganalysis Network," in IEEE Signal Processing Letters, 2022, doi: 10.1109/LSP.2022.3201727.
 # Abstract
